@@ -157,9 +157,8 @@ img{
     text-align: center;
 }
 .sowAll-btn{
-
    gap: 10;
-   padding: 21px 32px 21px 32px;
+   padding: 16px 29px 16px 29px;
 
    color: rgb(255, 255, 255);
    font-family: Work Sans;
@@ -220,7 +219,7 @@ img{
     text-align: left;
 }
 .foot-social{
-
+    margin-top: 32px;
     color: rgb(16, 16, 16);
     font-family: Work Sans;
     font-size: 32px;
@@ -228,6 +227,7 @@ img{
     line-height: 38px;
     letter-spacing: 0%;
     text-align: center;
+    margin-bottom: 20px;
 }
 /* hr{
     border: none ;
